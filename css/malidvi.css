@@ -1,0 +1,116 @@
+.header__box {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.header__desk {
+    width: 56px;
+    height: 56px;
+}
+
+.header__icon {
+    font-size: 50px;
+    margin-top: 10px;
+}
+
+.header__icon__icon {
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+.header__link {
+    font-size: 25px;
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.header__btn {
+    border: 1px solid grey;
+    background-color: rgb(196, 196, 196);
+    border-radius: 30px;
+    padding: 10px 20px 10px 20px;
+
+}
+
+.header__button {
+    border: none;
+    background-color: rgb(196, 196, 196);
+    padding: 10px 20px 10px 20px;
+
+}
+
+.header__develop {
+    width: 1104px;
+    height: 3px;
+    background-color: grey;
+    margin-top: 40px;
+}
+
+.header_nav_bar {
+    margin-top: -40px;
+}
+
+/* main */
+.main__desj {
+    font-size: 25x;
+    font-weight: 500;
+}
+
+.main__bacroundimg {
+    background-image: url(../img/moldiv\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 810px;
+}
+
+.main__desk__develop {
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.main__tetx__meke {
+    color: black;
+    font-size: 20px;
+}
+
+.text-dangere {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.main__helecopetor {
+    position: absolute;
+    right: 15px;
+    left: 700px;
+    margin-top: -300px;
+}
+.main__desk__develop__desz{
+   position: relative;
+}
+.main__inut{
+    color: #3A3A3A;
+    font-size: 24px;
+    font-weight: 400;
+}
+.main__input{
+    width: 824px;
+    height: 68px;
+    background-color: grey;
+    border: none;
+}
+.main__form{
+    margin-top: 150px;
+}
+.main__btn__button{
+    width: 390px;
+    height: 60px;
+    border: 1px solid #65018B;
+    border-radius: 10px;
+    background-color: #65018B;
+    color: #fff;
+}
+/* main */

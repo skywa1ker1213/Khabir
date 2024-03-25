@@ -1,0 +1,239 @@
+/* header start */
+.header__box{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.header__desk{
+    width: 56px;
+    height: 56px;
+}
+.header__icon{
+    font-size: 50px;
+    margin-top: 10px;
+}
+.header__icon__icon{
+    font-size: 40px;
+    margin-top: 10px;
+}
+.header__link{
+    font-size: 25px;
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+.header__btn{
+    border: 1px solid grey;
+    background-color: rgb(196, 196, 196);
+    border-radius: 30px;
+    padding: 10px 20px 10px 20px;
+
+}
+.header__button{
+    border: none;
+    background-color: rgb(196, 196, 196);
+    padding: 10px 20px 10px 20px;
+    
+}
+.header__develop{
+    width: 1104px;
+    height: 3px;
+    background-color: grey;
+    margin-top: 40px;
+}
+.header_nav_bar{
+    margin-top: -40px;
+}
+.header__bt::before{
+    top: 0px;
+    border-bottom-width: 0;
+}
+
+.header__bt::after{
+    bottom: 0;
+    border-top-width: 0;
+}
+.header__bt{
+    position: absolute;
+    margin-top: -30px;
+    padding: 10px 10px 10px 10px;
+    background-color: black;
+    color: white;
+    transition: .5s linear;
+    
+}
+.header__bt:hover{
+    background-color: red;
+}
+
+.header__position{
+    position: relative;
+    border-bottom-width:0 ;
+    border: 1px solid grey ;
+    width: 230px;
+    margin-left: -15px;
+    height: 30px;
+    margin-bottom: 10px;   
+}
+.header__position{
+    top: 0;
+    border-bottom-width:0 ;
+}
+.header__locolisition{
+    position: relative;
+    border-bottom-width:0 ;
+    border: 1px solid grey ;
+    width: 230px;
+    margin-left: -15px;
+    height: 30px;
+    margin-bottom: 10px;   
+}
+.header__locolisition{
+    bottom: 0;
+    border-top-width: 0;
+}
+.header__head{
+    color: #444444;
+    font-size: 42px;
+    font-weight: 700;
+}
+.header__text{
+    color: #8A8A8A;
+    font-size: 20px;
+    font-weight: 500;
+}
+.header__text__txt{
+    color:  #F4F6FACC;
+    font-size: 250px;
+    font-weight: 600;
+    text-align: center;
+}
+.header__img__desk{
+    position: absolute;
+}
+.header__img{
+    top: 300px;
+    left: 300px;
+    position: relative;
+}
+.header__box__text{
+    width: 468px;
+    height: 144px;
+}
+/* header end */
+/* main  */
+.header__box__link__list{
+    margin-top: -200px;
+}
+.header__link__box__list{
+    color: rgb(62, 4, 92);
+}
+.header__tetx{
+    color: #CE0164;
+    font-size: 24px;
+    font-weight: 400;
+}
+.card {
+    border-radius: 20px;
+    gap: 20px;
+    margin-left: 100px;
+}
+.mian__box__desk{
+    font-size: 45px;
+    font-weight: 700;
+    color: #251D48;
+}
+.main__box__list{
+    color: #343045;
+    font-size: 18px;
+    font-weight:500;
+}
+
+.main__box__desk{
+    margin-top: 100px;
+}
+
+.main__img__img{
+    position: absolute;
+}
+.main__desk__ovol{
+    position: relative;
+    margin-top: 50px;
+}
+
+.main__img__desk3{
+    position: relative;
+    margin-top: -190px;
+}
+.main__call__dev{
+    position: relative;
+    margin-top: -100px;
+    margin-left: 60px;
+}
+.main__call__dev2{
+    position: relative;
+    margin-top: -120px;
+    margin-left: 60px;
+}
+.main__desk__develop{
+    margin-top: 100px;
+    gap: 40px;
+}
+.main__develop__display{
+    margin-top: 100px;
+}
+.main__location {
+    background-color: blue;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.main__cal {
+    margin-left: -150px;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.main__email {
+    margin-left: 5px;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.location__group {
+    margin-top: 40px;
+}
+
+.form__field {
+    padding: 1px 70px 1px 70px;
+
+}
+
+.location__content {
+    border: 1px solid grey;
+    border-radius: 20px;
+    width: 1000px;
+    height: 561px;
+    margin-left: 44px;
+}
+.form__group {
+    position: relative;
+    padding: 20px 0 0;
+    width: 100%;
+    margin-top: 30px;
+}
+.form__field:placeholder-shown ~ .form__label {
+    font-size: 20px;
+    cursor: text;
+    top: 20px;
+}
+.main__box__border{
+    border: 1px solid grey ;
+    border-radius: 10px;
+}
+.card__dd{
+    margin-top: 100px;
+}
+/* main  */
